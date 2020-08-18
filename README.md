@@ -1,7 +1,6 @@
 # learn-mongodb
 # mongodb 安装
   - 官网：https://www.mongodb.org.cn/
-  - 手册：https://mongodb.net.cn/manual/
   - **注意** 安装好后看一下装好的文件夹：例：C:\Program Files\MongoDB\Server\3.0\bin  将自己安装好的文件夹路径加入到系统的path环境变量中
 ## 使用mongodb
   - mongo   使用数据库
